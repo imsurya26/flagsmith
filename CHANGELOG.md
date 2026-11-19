@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.294.0](https://github.com/Flagsmith/flagsmith/compare/v2.293.0...v2.294.0) (2026-11-19)
+
+
+### Features
+
+* **SDK:** Surface engine reasons in flag responses ([#8944](https://github.com/Flagsmith/flagsmith/issues/8944)) ([9a69843](https://github.com/Flagsmith/flagsmith/commit/9a69843d3cfdb65c3b2b2f769e3a129d4d481621))
+
 ## [2.293.0](https://github.com/Flagsmith/flagsmith/compare/v2.292.0...v2.293.0) (2026-11-19)
 
 
